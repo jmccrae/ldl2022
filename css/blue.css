@@ -20,7 +20,7 @@ body, td, div, p {color: #000;}
 /*****************************************/
 /*** Template specific layout elements ***/
 /*****************************************/
-#header{background: url(http://loremflickr.com/1000/300) top left no-repeat;}
+#header{background: url(../images/marseille-2293773_1280.jpg) top left no-repeat;}
 #title {color: #eee; text-shadow:1px 1px #555;}
 
 /**********************/
